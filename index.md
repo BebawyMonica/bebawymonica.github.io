@@ -24,7 +24,7 @@ Helping high school student with Calculus homework in preparation for tests and 
 Azusa Pacific University
    Bachelor of Computer Science Azusa, CA (Expected graduation May 2017)
 •	Dean’s List (GPA 3.5 and higher)
-•	Courses: Artificial Intelligence (Professor used the UC Berkley Course); Database & Advanced Database; Data Structure; Computer Architecture and Organization; Compiler Construction; System Programming I & II; Operating Systems; Software Engineering I 
+•	Courses: Artificial Intelligence (Professor used the UC Berkley Course); Database & Advanced Database; Data Structure; Computer Architecture and Organization; Compiler Construction; System Programming I & II; Operating Systems; Software Engineering I; Software Engineering II; Web Programming; Numerical Analysis
 
 
 ### Memberships 
